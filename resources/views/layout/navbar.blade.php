@@ -1,3 +1,4 @@
+<!-- improve layout structure -->
 <nav class="navbar navbar-expand-lg bg-success" data-bs-theme="dark">
     <div class="container">
       <a class="navbar-brand" href="/">tiMovie</a>
